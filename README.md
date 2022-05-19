@@ -1,10 +1,9 @@
 ### Hello. Thank you for stopping by! 👋
-<h2>
-  Nope
-</h2>
+
 <table>
   <tr>
     <td style="width:50%">
+      <h1>About Me:</h1>
       <ul>
         <li>Name: Susan Zhou</li>
         <li>Active Projects:
