@@ -41,11 +41,16 @@ Here are some ideas to get you started:
         <li><a href="https://docs.google.com/document/d/1ys4o4hNwCFipFi1HKlAHuUHsOzUJpypv/edit?usp=sharing&ouid=110299049554834787930&rtpof=true&sd=true" class="link"                target="_blank">Resume</li>
       </ul>
     </td>
+     <td style="width:50%">
+     <h1>Tech Skills:</h1>
+        <img src="assets/techstack1.jpg" alt="tech stack logo"/>
+        <img src="assets/techstack2.jpg" alt="tech stack logo"/>
+    </td>
   </tr>
 </table>
 
 <h2>
-  Nope
+  Nope | <a href="https://github.com/ZhouSusan/Nope">Repo</a>
 </h2>
 <table>
   <tr>
@@ -59,6 +64,44 @@ Here are some ideas to get you started:
     </td>
     <td style="width:50%">
         <img src="https://media.giphy.com/media/Iqu3WiACpRGE3gxkXm/giphy.gif" alt="Nope- Promotional Gaming Websites"/>
+    </td>
+  </tr>
+</table>
+
+<h2>
+  Global ATM | <a href="https://github.com/ZhouSusan/GlobalATM-new">Repo</a>
+</h2>
+<table>
+  <tr>
+    <td style="width:50%">
+      <ul>
+        <li>C# ATM project with class inheritance (Accounts -- Savings vs. Checking)</li>
+        <li>Login / Registration with hashed passwords and validations</li>
+        <li>Security Questions mapped to account for lost / stolen card account recovery</li>
+        <li>Currency Exchange API for rapid exchange rates / conversions</li>
+      </ul>
+    </td>
+    <td style="width:50%">
+        <img src="https://media.giphy.com/media/tyTRV5RL5v48vKYhi6/giphy.gif" alt="Global ATM"/>
+    </td>
+  </tr>
+</table>
+
+<h2>
+  Project Manager | <a href="https://github.com/ZhouSusan/MERN_ProjectManager">Repo</a>
+</h2>
+<table>
+  <tr>
+    <td style="width:50%">
+      <ul>
+        <li>A full-stack remote learning management system web application </li>
+        <li>Many to many relationships with MongoDB</li>
+        <li>Developed and implemented CRUD operations for Create Class functionality</li>
+        <li>Login / Registration with authentication</li>
+      </ul>
+    </td>
+    <td style="width:50%">
+        <img src="https://media.giphy.com/media/tyTRV5RL5v48vKYhi6/giphy.gif" alt="Project Manager"/>
     </td>
   </tr>
 </table>
