@@ -38,7 +38,7 @@ Here are some ideas to get you started:
           <ol>Yoga</ol>
         </li>
         <li> Want to reach out? Hit me up with an email or direct message!</li>
-        <li><a href="https://docs.google.com/document/d/1ys4o4hNwCFipFi1HKlAHuUHsOzUJpypv/edit?usp=sharing&ouid=110299049554834787930&rtpof=true&sd=true" class="link"                target="_blank">Resume</li>
+        <li><a href="https://docs.google.com/document/d/1ys4o4hNwCFipFi1HKlAHuUHsOzUJpypv/edit?usp=sharing&ouid=110299049554834787930&rtpof=true&sd=true" class="link" target="_blank">Resume</li>
       </ul>
     </td>
      <td style="width:50%">
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
       </ul>
     </td>
     <td style="width:50%">
-        <img src="https://media.giphy.com/media/tyTRV5RL5v48vKYhi6/giphy.gif" alt="Global ATM"/>
+        <img src="https://media.giphy.com/media/nKNYugt4VkkZTUJl9p/giphy.gif" alt="Global ATM"/>
     </td>
   </tr>
 </table>
