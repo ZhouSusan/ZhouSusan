@@ -1,9 +1,4 @@
 ### Hello. Thank you for stopping by! 👋
-<style>
-  ul > li {
-    font size: xx-large;
-  }
-</style>
 <h2>
   Nope
 </h2>
