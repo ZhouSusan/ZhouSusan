@@ -8,7 +8,12 @@
         <li>Name: Susan Zhou</li>
         <li>Active Projects:
           <ol>Learning Unity</ol>
-          <ol>Chatbot</ol>
+          <ol>Learning Socket.io</ol>
+          <ol>Learning awesome Data structures and algos</ol>
+          <ol>Volunteering:
+            <ol>Form's logic</ol>
+            <ol>Digital Media platform and Game Development<ol>
+          </ol>
           <ol>I am currently Seeking Work!</ol>
         </li>
         <li>Email and form validations</li>
@@ -21,7 +26,7 @@
           <ol>Yoga</ol>
         </li>
         <li> Want to reach out? Hit me up with an email or direct message!</li>
-        <li><a href="https://docs.google.com/document/d/1ys4o4hNwCFipFi1HKlAHuUHsOzUJpypv/edit?usp=sharing&ouid=110299049554834787930&rtpof=true&sd=true" class="link" target="_blank">Resume</li>
+        <li><a href="https://docs.google.com/document/d/1vDXX8sdND-fvmLXkz146QooeS5wVexFh/edit?usp=sharing&ouid=110299049554834787930&rtpof=true&sd=true" class="link" target="_blank">Resume</li>
       </ul>
     </td>
      <td style="width:50%">
