@@ -16,7 +16,6 @@
           </ol>
           <ol>I am currently Seeking Work!</ol>
         </li>
-        <li>Email and form validations</li>
         <li>Interested In: Game Development, Full Stack Development, Devops </li>
         <li>Hobbies:
           <ol>Games</ol>
