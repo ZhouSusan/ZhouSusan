@@ -8,7 +8,6 @@
         <li>Name: Susan Zhou</li>
         <li>Active Projects:
           <ol>Learning Unity</ol>
-          <ol>Learning Socket.io</ol>
           <ol>Learning awesome Data structures and algos</ol>
           <ol>Volunteering:
             <ol>Form's logic</ol>
