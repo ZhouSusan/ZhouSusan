@@ -29,7 +29,7 @@
         </li>
         <li> Want to reach out? Hit me up with an email or direct message!</li>
         <li><a href="https://docs.google.com/document/d/1vDXX8sdND-fvmLXkz146QooeS5wVexFh/edit?usp=sharing&ouid=110299049554834787930&rtpof=true&sd=true" class="link" target="_blank">Resume</li>
-      </li>
+      </ul>
     </td>
      <td style="width:50%">
      <h1>Tech Skills:</h1>
