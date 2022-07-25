@@ -18,15 +18,15 @@
         </li>
       </ul>
         <li>
-          <p>I am currently Seeking Work!</p>
-          <p>Interested In: Game Development, Full Stack Software Development, Full Stack Software Engineer, Frontend, Backend </p>
+          <ol>I am currently Seeking Work!</ol>
+          <ol>Interested In: Game Development, Full Stack Software Development, Full Stack Software Engineer, Frontend, Backend </ol>
         </li>  
         <li>Hobbies:
-          <ol>Games</ol>
-          <ol>Writing</ol>
-          <ol>Traveling</ol>
-          <ol>Cooking</ol>
-          <ol>Yoga</ol>
+          <ol>-Games</ol>
+          <ol>-Writing</ol>
+          <ol>-Traveling</ol>
+          <ol>-Cooking</ol>
+          <ol>-Yoga</ol>
         </li>
         <p> Want to reach out? Hit me up with an email or direct message!<p>
         <p><a href="https://docs.google.com/document/d/1vDXX8sdND-fvmLXkz146QooeS5wVexFh/edit?usp=sharing&ouid=110299049554834787930&rtpof=true&sd=true" class="link" target="_blank">Resume</p>
