@@ -8,22 +8,15 @@
         <li>Name: Susan Zhou</li>
         <li>Active Projects:
           <ol>Learning Unity</ol>
-<<<<<<< HEAD
-          <ol>Learning awesome Data structures and algos</ol>
-        </li>
-        <li>Volunteering:
-          <ol>Form's logic</ol>
-          <ol>Digital Media platform and Game Development</ol>
-        </li>
-=======
           <ol>Learning Django</ol>
           <ol>Learning PostgresSQL</ol>
           <ol>Learning awesome Data structures and algos</ol>
-          <ol>Volunteering:
+        </li>
+        <li> Volunteering:
             <ol>Form's logic</ol>
             <ol>Digital Media platform and Game Development<ol>
-          </ol>
->>>>>>> d4dbc578bb6118b20b2737e7dfc5ddbc63a3cd34
+        </li>
+        <li>
           <ol>I am currently Seeking Work!</ol>
         </li>
         <li>Interested In: Game Development, Full Stack Software Development, Full Stack Software Engineer, Frontend, Backend </li>
@@ -36,7 +29,7 @@
         </li>
         <li> Want to reach out? Hit me up with an email or direct message!</li>
         <li><a href="https://docs.google.com/document/d/1vDXX8sdND-fvmLXkz146QooeS5wVexFh/edit?usp=sharing&ouid=110299049554834787930&rtpof=true&sd=true" class="link" target="_blank">Resume</li>
-      </ul>
+      </li>
     </td>
      <td style="width:50%">
      <h1>Tech Skills:</h1>
