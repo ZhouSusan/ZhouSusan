@@ -9,7 +9,8 @@
         <li>Name: Susan Zhou</li>
         <li>Active Projects:
           <ol>Learning Unity</ol>
-          <ol>Chatbot</ol>
+          <ol>Learning Django</ol>
+          <ol>Learning PostgresSQL</ol>
           <ol>I am currently Seeking Work!</ol>
         </li>
         <li>Email and form validations</li>
