@@ -27,7 +27,7 @@
         <p> Want to reach out? Hit me up with an email or direct message!<p>
         <p><a href="https://docs.google.com/document/d/1vDXX8sdND-fvmLXkz146QooeS5wVexFh/edit?usp=sharing&ouid=110299049554834787930&rtpof=true&sd=true" class="link" target="_blank">Resume</p>
               </ul>
-    <tr>
+     </td>          
      <td style="width:50%">
      <h1>Tech Skills:</h1>
         <img src="assets/techstack1.jpg" alt="tech stack logo"/>
