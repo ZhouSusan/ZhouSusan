@@ -16,7 +16,6 @@
             <ol>Form's logic</ol>
             <ol>Digital Media platform and Game Development<ol>
         </li>
-      </ul>
         <li>I am currently Seeking Work!
           <ol>Interested In: Game Development, Full Stack Software Development, Full Stack Software Engineer, Frontend, Backend </ol>
         <li>Hobbies:
@@ -27,7 +26,8 @@
           <ol>-Yoga</ol>
         <p> Want to reach out? Hit me up with an email or direct message!<p>
         <p><a href="https://docs.google.com/document/d/1vDXX8sdND-fvmLXkz146QooeS5wVexFh/edit?usp=sharing&ouid=110299049554834787930&rtpof=true&sd=true" class="link" target="_blank">Resume</p>
-    </td>
+              </ul>
+    <tr>
      <td style="width:50%">
      <h1>Tech Skills:</h1>
         <img src="assets/techstack1.jpg" alt="tech stack logo"/>
