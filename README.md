@@ -16,17 +16,18 @@
             <ol>Form's logic</ol>
             <ol>Digital Media platform and Game Development<ol>
         </li>
-        <li>I am currently Seeking Work!
-          <ol>Interested In: Game Development, Full Stack Software Development, Full Stack Software Engineer, Frontend, Backend </ol>
-        <li>Hobbies:
-          <ol>-Games</ol>
-          <ol>-Writing</ol>
-          <ol>-Traveling</ol>
-          <ol>-Cooking</ol>
-          <ol>-Yoga</ol>
+      </ul>
+      <li>I am currently Seeking Work!
+        <ol>Interested In: Game Development, Full Stack Software Development, Full Stack Software Engineer, Frontend, Backend </ol>
+      <li>Hobbies:
+        <ol>-Games</ol>
+        <ol>-Writing</ol>
+        <ol>-Traveling</ol>
+        <ol>-Cooking</ol>
+        <ol>-Yoga</ol>
         <p> Want to reach out? Hit me up with an email or direct message!<p>
         <p><a href="https://docs.google.com/document/d/1vDXX8sdND-fvmLXkz146QooeS5wVexFh/edit?usp=sharing&ouid=110299049554834787930&rtpof=true&sd=true" class="link" target="_blank">Resume</p>
-              </ul>
+      </li>
      </td>          
      <td style="width:50%">
      <h1>Tech Skills:</h1>
