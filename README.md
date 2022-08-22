@@ -9,7 +9,7 @@
         <li>Active Projects:
           <ol>Learning Unity</ol>
           <ol>Learning Django</ol>
-          <ol>Learning PostgresSQL</ol>
+          <ol>Learning Tailwind CSS</ol>
           <ol>Learning awesome Data structures and algos</ol>
         </li>
         <li> Volunteering:
