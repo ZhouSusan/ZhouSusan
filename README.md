@@ -14,7 +14,7 @@
         </li>
         <li> Volunteering:
             <ol>Form's logic</ol>
-            <ol>Digital Media platform and Game Development<ol>
+            <ol>Digital Media platform and Game Development</ol>
             <ol>Building web app with react.js </ol>
         </li>
       </ul>
