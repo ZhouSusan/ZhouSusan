@@ -104,11 +104,31 @@
         <li>C# Wedding Planner application that allows registered users to plan a wedding. Users can RSVP to weddings and view attendee lists.</li>
         <li>Login / Registration with hashed passwords and validations</li>
         <li> Many-to-many SQL tables/Entity Framework models</li>
-        <li>ntegrate Google Maps API to display map for Wedding's address with autocompletion</li>
+        <li>Integrated Google Maps API to display map for Wedding's address with autocompletion</li>
       </ul>
     </td>
     <td style="width:50%">
         <img src="https://media.giphy.com/media/9dwJIn1iWrAmmKBYHC/giphy.gif" alt="Wedding Planner"/>
+    </td>
+  </tr>
+</table>
+
+<h2>
+  Journal | <a href="https://github.com/ZhouSusan/Journal">Repo</a>
+</h2>
+<table>
+  <tr>
+    <td style="width:50%">
+      <ul>
+        <li>Journal is an online application where users can safely create, edit, and view private journal entries in blurb format. </li>
+        <li>Responsive layout design</li>
+        <li>Mobile friendly views</li>
+        <li>Create, read, update, and deletion of journal entries</li>
+        <li>Persisted data</li>
+      </ul>
+    </td>
+    <td style="width:50%">
+        <img src="https://media.giphy.com/media/MId9AztoffQwuLvNrK/giphy.gif" alt="Journal app"/>
     </td>
   </tr>
 </table>
