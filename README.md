@@ -39,7 +39,7 @@
   <tr>
     <td style="width:50%">
       <ul>
-        <li>Promtional Gaming Websites with Charcters Video</li>
+        <li>Promotional Gaming Websites with Charcters Video</li>
         <li>MySQL for data persistence </li>
         <li>Email and form validations</li>
         <li>Automatic email with mailing subscriptions</li>
@@ -71,7 +71,7 @@
 </table>
 
 <h2>
-  Project Manager | <a href="https://github.com/ZhouSusan/MERN_ProjectManager">Repo</a>
+  Project Manager | <a href="https://github.com/ZhouSusan/MERN_ProjectManager/tree/main/ProjectManager">Repo</a>
 </h2>
 <table>
   <tr>
