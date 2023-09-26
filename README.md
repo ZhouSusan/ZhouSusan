@@ -18,7 +18,7 @@
           <ol>-Tutoring</ol>
           <ol>-Yoga</ol>
           <ol>-Event Planning and meeting new people</ol>
-          <ol>-Reading and adding to my book collections</ol>
+          <ol>-Reading and adding to my book collection</ol>
           <ol>-Playing with my adorable dog!</ol>
           <p> If you want to chat? Feel free to send me a message on <a href="https://www.linkedin.com/in/susanzhou-tech/" target="_blank">Linkedin</a>.<p>
       </li>
@@ -39,8 +39,8 @@
   <tr>
     <td style="width:50%">
       <ul>
-        <li>Promotional Gaming Websites with Charcters Video</li>
-        <li>MySQL for data persistence </li>
+        <li>Promotional Gaming Website with Characters Video</li>
+        <li>MySQL for data persistence</li>
         <li>Email and form validations</li>
         <li>Automatic email with mailing subscriptions</li>
       </ul>
@@ -60,8 +60,8 @@
       <ul>
         <li>C# ATM project with class inheritance (Accounts -- Savings vs. Checking)</li>
         <li>Login/Registration with hashed passwords and validations</li>
-        <li>Security Questions mapped to account for lost / stolen card account recovery</li>
-        <li>Currency Exchange API for rapid exchange rates / conversions</li>
+        <li>Security Questions mapped to account for lost/stolen card account recovery</li>
+        <li>Currency Exchange API for rapid exchange rates/conversions</li>
       </ul>
     </td>
     <td style="width:50%">
@@ -80,7 +80,7 @@
         <li>A full-stack remote learning management system web application </li>
         <li>Many to many relationships with MongoDB</li>
         <li>Developed and implemented CRUD operations for Create Class functionality</li>
-        <li>Login / Registration with authentication</li>
+        <li>Login/Registration with authentication</li>
       </ul>
     </td>
     <td style="width:50%">
@@ -97,7 +97,7 @@
     <td style="width:50%">
       <ul>
         <li>C# Wedding Planner application that allows registered users to plan a wedding. Users can RSVP to weddings and view attendee lists.</li>
-        <li>Login / Registration with hashed passwords and validations</li>
+        <li>Login/Registration with hashed passwords and validations</li>
         <li> Many-to-many SQL tables/Entity Framework models</li>
         <li>Integrated Google Maps API to display map for Wedding's address with autocompletion</li>
       </ul>
