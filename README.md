@@ -7,25 +7,20 @@
       <ul>
         <li>Name: Susan Zhou</li>
         <li>Active Projects:
-          <ol>Learning Unity</ol>
           <ol>Learning Java</ol>
-          <ol>Learning awesome Data structures and algos</ol>
-        </li>
-        <li> Volunteering:
-            <ol>Form's logic</ol>
-            <ol>Digital Media platform and Game Development</ol>
-            <ol>Building web app with react.js </ol>
+          <ol>Learning SpringBoot React</ol>
+          <ol>Reviewing/Learning some awesome Data structures and algos</ol>
         </li>
       </ul>
       <li>I am currently Seeking Work!
-        <ol>Interested In: Game Development, Full Stack Software Development, Full Stack Software Engineer, Frontend, Backend </ol>
+        <ol>Interested In: Full Stack and Backend Development</ol>
       <li>Hobbies:
         <ol>-Games</ol>
         <ol>-Writing</ol>
         <ol>-Traveling</ol>
         <ol>-Cooking</ol>
         <ol>-Yoga</ol>
-        <p> Want to reach out? Hit me up with an email or direct message!<p>
+        <p> Want to reach out? Send me a message on [Linkedin](https://www.linkedin.com/in/susanzhou-tech/)!<p>
       </li>
      </td>          
      <td style="width:50%">
@@ -44,7 +39,7 @@
     <td style="width:50%">
       <ul>
         <li>Promtional Gaming Websites with Charcters Video</li>
-        <li>MySQL for data persistence  </li>
+        <li>MySQL for data persistence </li>
         <li>Email and form validations</li>
         <li>Automatic email with mailing subscriptions</li>
       </ul>
@@ -63,7 +58,7 @@
     <td style="width:50%">
       <ul>
         <li>C# ATM project with class inheritance (Accounts -- Savings vs. Checking)</li>
-        <li>Login / Registration with hashed passwords and validations</li>
+        <li>Login/Registration with hashed passwords and validations</li>
         <li>Security Questions mapped to account for lost / stolen card account recovery</li>
         <li>Currency Exchange API for rapid exchange rates / conversions</li>
       </ul>
