@@ -6,22 +6,23 @@
       <h1>About Me:</h1>
       <ul>
         <li>Name: Susan Zhou</li>
-        <li>Active Projects:
-          <ol>Learning Java</ol>
-          <ol>Learning SpringBoot React</ol>
-          <ol>Reviewing/Learning some awesome Data structures and algos</ol>
+        <li>What I am doing now:
+          <ol>-Learning SpringBoot React</ol>
+          <ol>-Always Debugging :)</ol>
+          <ol>-Studying some awesome data structures and algorithms</ol>
         </li>
-      </ul>
-      <li>I am currently Seeking Work!
-        <ol>Interested In: Full Stack and Backend Development</ol>
-      <li>Hobbies:
-        <ol>-Games</ol>
-        <ol>-Writing</ol>
-        <ol>-Traveling</ol>
-        <ol>-Cooking</ol>
-        <ol>-Yoga</ol>
-        <p> Want to reach out? Send me a message on [Linkedin](https://www.linkedin.com/in/susanzhou-tech/)!<p>
+        <li>Outside of coding, you can find me:
+          <ol>-Gaming</ol>
+          <ol>-Writing poetry and short stories</ol>
+          <ol>-Cooking and baking</ol>
+          <ol>-Tutoring</ol>
+          <ol>-Yoga</ol>
+          <ol>-Event Planning and meeting new people</ol>
+          <ol>-Reading and adding to my book collections</ol>
+          <ol>-Playing with my adorable dog!</ol>
+          <p> If you want to chat? Feel free to send me a message on <a href="https://www.linkedin.com/in/susanzhou-tech/" target="_blank">Linkedin</a>.<p>
       </li>
+      </ul>
      </td>          
      <td style="width:50%">
      <h1>Tech Skills:</h1>
